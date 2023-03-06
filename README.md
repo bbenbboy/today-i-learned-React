@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/bbenbboy/11.pricing-component.git)
+- Solution URL: [Github](https://github.com/bbenbboy/today-i-learned-React.git)
 - Live Site URL: [Live Site](https://todayilearned-ratchapon.netlify.app/)
 
 ## My process
